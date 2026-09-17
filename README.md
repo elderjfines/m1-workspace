@@ -18,6 +18,19 @@ git repo so M1 can open it anywhere.
 | `decisions/`  | Short records of decisions made, so they are not re-argued    |
 | `archive/`    | Anything finished — moved here instead of deleted             |
 
+## Which repo?
+
+Two catch-all repos, split by where the work happens:
+
+- **`m1-workspace`** (this one) — captured on the phone. Quick questions, one-off
+  tasks, throwaway scripts, decisions. Fast in, short entries, graduates out when
+  something grows.
+- **[`general`](https://github.com/elderjfines/general)** — desktop and web sessions.
+  Longer research, write-ups and multi-step work that wants a real keyboard.
+
+If an inbox item outgrows the phone, move it to `general/research/` and leave a line
+here pointing at it. Project work still lives in its own repo (e.g. `batchline`).
+
 ## How to use it from the phone
 
 1. Open this repo in Claude Code on M1.
